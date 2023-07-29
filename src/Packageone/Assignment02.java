@@ -35,7 +35,9 @@ public int division(int a, int b) {
 		
 		 Assignment02 Calculation = new Assignment02();
 	       
-	       Calculation.division(10, 50);
+	       Calculation.division(10, 5);
+	       Calculation.Addition(0, 0);
+	       
 	}
 	
 }
